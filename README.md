@@ -7,10 +7,12 @@ Hi there, I`m Alibek 👋 There you can look all my project!
 </div>
 
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=qazaqsquadleader&style=flat-square&color=blue" alt=""/>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=qazaqsquadleader&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
 **qazaqsquadleader/qazaqsquadleader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
