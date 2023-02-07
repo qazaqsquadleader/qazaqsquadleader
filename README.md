@@ -1,4 +1,4 @@
-### Hi there, I`m Alibek 👋
+### Hi there, I`m Alibek 👋 There you can look all my project!
 
 <!--
 **qazaqsquadleader/qazaqsquadleader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
