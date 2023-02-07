@@ -1,5 +1,5 @@
-<h1>
-### Hi there, I`m Alibek 👋 There you can look all my project!
+<h1 align="center">
+Hi there, I`m Alibek 👋 There you can look all my project!
 </h1>
 
   <div id="header" align="center">
